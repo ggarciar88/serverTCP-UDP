@@ -92,7 +92,7 @@ The UDP communication will exchange messages similarly, though without establish
 
 ## IMPORTANT Notes
 
--Default TCP port: 8080
+- Default TCP port: 8080
 - Default UDP port: 9090
 - Both clients connect to 127.0.0.1 (localhost) by default.
 - The server must be started before the client.
